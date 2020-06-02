@@ -250,6 +250,14 @@ input[type="email"] {
   padding-left: 15px;
 }
 
+input{
+  border-radius: 3px;
+}
+
+textarea{
+  border-radius: 5px;
+}
+
 .contact-form textarea {
   resize: none;
   height: 180px;
@@ -267,13 +275,13 @@ button[type="submit"] {
   border: 0;
   text-decoration-color: #222222;
   font-family: "Montserrat", sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 700;
   text-transform: uppercase;
   font-style: normal;
-  padding: 12px 33px;
+  padding: 25px 45px;
   cursor: pointer;
-  transition: all.3s linear;
+  transition: all.2s linear;
   margin-bottom: 110px;
   border-radius: 3px;
 }
