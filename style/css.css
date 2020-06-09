@@ -48,10 +48,6 @@
 :root {
   --main-color: #fed136;
 }
-body {
-  max-width: 1400px;
-}
-
 /* LOGO=========== */
 .page_header {
   padding-top: 50px;
